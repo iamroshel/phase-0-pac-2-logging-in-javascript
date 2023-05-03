@@ -1,4 +1,4 @@
-# Logging in JavaScript
+# Logging in JavaScript - rosh
 
 ## Learning Goals
 
